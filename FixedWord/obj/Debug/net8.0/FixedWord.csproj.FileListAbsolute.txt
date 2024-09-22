@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\bin\Debug\net8.0\FixedWord.exe
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\bin\Debug\net8.0\FixedWord.deps.json
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\bin\Debug\net8.0\FixedWord.runtimeconfig.json
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\bin\Debug\net8.0\FixedWord.dll
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\bin\Debug\net8.0\FixedWord.pdb
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.sourcelink.json
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.dll
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\refint\FixedWord.dll
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.pdb
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\FixedWord.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C#\Console\FixedWord\FixedWord\obj\Debug\net8.0\ref\FixedWord.dll
